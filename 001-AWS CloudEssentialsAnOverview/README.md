@@ -1,9 +1,11 @@
 
 # AWS Cloud Essentials Overview
 
+## Agenda
+
 1. Basic overview of Cloud
 
-1. Quick Demo of the Cloud (detailed explanation later)
+1. Quick Demo of the Cloud (detailed explanation later) **
 
 1. Different types of Cloud models and Cloud services
 
@@ -36,6 +38,6 @@
     - https://www.ibm.com/blogs/cloud-computing/2015/09/02/community-cloud-the-answer-to-the-publicprivate-debate/
     - https://baadal.iitd.ac.in/baadal
 
-1. Cloud Service Models
+1. Cloud Service Models  
     ![](images/2021-06-26-18-29-34.png)
 

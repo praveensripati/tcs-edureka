@@ -1,20 +1,20 @@
 
-# Cloud Best Practices
+# AWS Console and Usage
 
 ## Agenda
 
-1. The best practices while using AWS resources for the following services
-
+Using the AWS Console
+ 
     - Compute Service
 
     - Database Service
 
     - Storage Service
-
+    
     - Content Delivery Service
 
     - Network Service
 
-    - Deploy & Management Service
+    - Deploy and Manage Service
 
 # Further Reading
