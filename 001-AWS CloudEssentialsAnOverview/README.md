@@ -38,6 +38,7 @@
     - https://www.ibm.com/blogs/cloud-computing/2015/09/02/community-cloud-the-answer-to-the-publicprivate-debate/
     - https://baadal.iitd.ac.in/baadal
 
-1. Cloud Service Models  
+1. Cloud Service Models
+
     ![](images/2021-06-26-18-29-34.png)
 
