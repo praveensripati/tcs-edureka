@@ -5,16 +5,16 @@
 
 Using the AWS Console
  
-    - Compute Service
+    - Compute Service (EC2)
 
-    - Database Service
+    - Storage Service (S3)
 
-    - Storage Service
-    
-    - Content Delivery Service
+    - Database Service (RDS)
 
-    - Network Service
+    - Network Service (VPC)
 
-    - Deploy and Manage Service
+    - Content Delivery Service (CloudFront)
+
+    - Deploy and Manage Service (Elastic Beanstalk)
 
 # Further Reading

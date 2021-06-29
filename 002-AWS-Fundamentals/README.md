@@ -49,4 +49,3 @@
     - ECS
     - Registry
     - Fargate
-    - 
